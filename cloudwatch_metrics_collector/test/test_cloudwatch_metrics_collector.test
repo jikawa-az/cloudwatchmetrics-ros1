@@ -1,3 +1,0 @@
-<launch>
-    <test test-name="test_cloudwatch_metrics_collector" pkg="cloudwatch_metrics_collector" type="test_cloudwatch_metrics_collector"/>
-</launch>
